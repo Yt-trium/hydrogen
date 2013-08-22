@@ -1,0 +1,18 @@
+EXPORTS
+    DllMain@12 @1
+    _ZN13memoryEditing14getProcessNameEv @2
+    _ZN13memoryEditing14setProcessNameESs @3
+    _ZN13memoryEditing15getValueAddressEv @4
+    _ZN13memoryEditing15setValueAddressEi @5
+    _ZN13memoryEditing4readEv @6
+    _ZN13memoryEditing5writeEi @7
+    _ZN13memoryEditingC1Ev @8
+    _ZN13memoryEditingC2Ev @9
+    _ZN13memoryEditingD1Ev @10
+    _ZN13memoryEditingD2Ev @11
+    _ZN8hydrogen5aboutEv @12
+    _ZN8hydrogen8testFuncEv @13
+    _ZN8hydrogenC1Ev @14
+    _ZN8hydrogenC2Ev @15
+    _ZN8hydrogenD1Ev @16
+    _ZN8hydrogenD2Ev @17
