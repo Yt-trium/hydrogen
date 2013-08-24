@@ -40,6 +40,10 @@
 				</Linker>
 			</Target>
 		</Build>
+		<Unit filename="console.cpp" />
+		<Unit filename="console.h" />
+		<Unit filename="global.cpp" />
+		<Unit filename="global.h" />
 		<Unit filename="hydrogen.cpp" />
 		<Unit filename="hydrogen.h" />
 		<Unit filename="main.cpp" />

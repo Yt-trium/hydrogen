@@ -10,9 +10,18 @@ EXPORTS
     _ZN13memoryEditingC2Ev @9
     _ZN13memoryEditingD1Ev @10
     _ZN13memoryEditingD2Ev @11
-    _ZN8hydrogen5aboutEv @12
-    _ZN8hydrogen8testFuncEv @13
-    _ZN8hydrogenC1Ev @14
-    _ZN8hydrogenC2Ev @15
-    _ZN8hydrogenD1Ev @16
-    _ZN8hydrogenD2Ev @17
+    _ZN6globalC1Ev @12
+    _ZN6globalC2Ev @13
+    _ZN6globalD1Ev @14
+    _ZN6globalD2Ev @15
+    _ZN7console6askKeyEv @16
+    _ZN7consoleC1Ev @17
+    _ZN7consoleC2Ev @18
+    _ZN7consoleD1Ev @19
+    _ZN7consoleD2Ev @20
+    _ZN8hydrogen5aboutEv @21
+    _ZN8hydrogen8testFuncEv @22
+    _ZN8hydrogenC1Ev @23
+    _ZN8hydrogenC2Ev @24
+    _ZN8hydrogenD1Ev @25
+    _ZN8hydrogenD2Ev @26

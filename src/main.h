@@ -5,6 +5,7 @@
 #include <iostream>
 #include "hydrogen.h"
 #include "memoryEditing.h"
+#include "console.h"
 
 #ifdef BUILD_DLL
     #define DLL_EXPORT __declspec(dllexport)
